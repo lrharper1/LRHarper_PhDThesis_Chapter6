@@ -8,7 +8,7 @@ Permanently archived at: **TBC**
 
 ## Contents
 
-Curated reference databases used in analyses (GenBank/fasta format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_mammal_eDNA_metabarcoding/tree/master/Reference_database)
+Curated reference databases used in analyses (GenBank format) [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_mammal_eDNA_metabarcoding/tree/master/Reference_database). The notebooks used to create these reference databases can be found [(here)](https://github.com/HullUni-bioinformatics/Curated_reference_databases).
 
 Notebooks to run metaBEAT pipeline [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_mammal_eDNA_metabarcoding/tree/master/Jupyter_notebooks)
 
