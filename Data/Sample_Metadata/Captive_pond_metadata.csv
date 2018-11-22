@@ -1,0 +1,21 @@
+Species,Species_type,Site,Enclosure,Individuals,Waterbody_size_m2
+Lutra lutra,Semi-aquatic,Wildwood Trust,E,2,162
+Arvicola amphibius,Semi-aquatic,Wildwood Trust,E1,4,0.02
+Arvicola amphibius,Semi-aquatic,Wildwood Trust,E2,1,0.02
+Castor fiber,Semi-aquatic,Wildwood Trust,E1,2,100
+Castor fiber,Semi-aquatic,Wildwood Trust,E2,1,100
+Erinaceus europaeus,Ground-dwelling,Wildwood Trust,E1,1,0.04
+Erinaceus europaeus,Ground-dwelling,Wildwood Trust,E2,2,0.04
+Meles meles,Ground-dwelling,Wildwood Trust,E,4,1.73
+Cervus elaphus,Ground-dwelling,Wildwood Trust,E,8,100
+Lynx lynx,Ground-dwelling,Wildwood Trust,E,2,2
+Sciurus vulgaris,Arboreal,Wildwood Trust,E1,2,0.01
+Sciurus vulgaris,Arboreal,Wildwood Trust,E2,3,0.01
+Sciurus vulgaris,Arboreal,Wildwood Trust,E3,3,0.01
+Sciurus vulgaris,Arboreal,Wildwood Trust,E4,2,0.01
+Martes martes,Arboreal,Wildwood Trust,E1,1,2
+Martes martes,Arboreal,Wildwood Trust,E2,1,0.375
+Sciurus vulgaris,Arboreal,Highland Wildlife Park,NA,NA,0.25
+Lynx lynx,Ground-dwelling,Highland Wildlife Park,E,8,2
+Castor fiber,Semi-aquatic,Highland Wildlife Park,E,2,50
+Cervus elaphus,Ground-dwelling,Highland Wildlife Park,E,30,NA

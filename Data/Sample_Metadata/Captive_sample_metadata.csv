@@ -1,0 +1,81 @@
+Sample,Location,Individuals,Volume,No_filters,Notes
+HWP-Round01-LYNX-BUCK,Highland Wildlife Park,8,500,1,
+HWP-Round01-LYNX-P01,Highland Wildlife Park,8,500,1,
+HWP-Round01-LYNX-P02,Highland Wildlife Park,8,500,1,
+HWP-Round01-LYNX-T01,Highland Wildlife Park,8,500,1,
+HWP-Round01-SQ-BATH,Highland Wildlife Park,NA,500,1,
+HWP-Round02-BEAV-P01,Highland Wildlife Park,2,500,2,
+HWP-Round02-BEAV-P02,Highland Wildlife Park,2,500,2,
+HWP-Round02-BEAV-P03,Highland Wildlife Park,2,500,2,
+HWP-Round02-BEAV-T01,Highland Wildlife Park,2,500,2,
+HWP-Round02-BEAV-T02,Highland Wildlife Park,2,500,2,
+HWP-Round02-BEAV-T03,Highland Wildlife Park,2,500,2,
+HWP-Round02-ZOO-BEAV,Highland Wildlife Park,2,100,2,Water clouded with urine and faeces
+HWP-Round03-DEER-P01,Highland Wildlife Park,30,125,2,Water extremely turbid
+HWP-Round03-DEER-P02,Highland Wildlife Park,30,125,2,Water extremely turbid
+HWP-Round03-DEER-P03,Highland Wildlife Park,30,500,2,Water extremely turbid
+HWP-Round03-DEER-P04,Highland Wildlife Park,30,200,2,Water extremely turbid
+HWP-Round03-DEER-P05,Highland Wildlife Park,30,200,2,Water extremely turbid
+HWP-Round03-DEER-T01,Highland Wildlife Park,30,200,2,Water extremely turbid
+HWP-Round03-DEER-T02,Highland Wildlife Park,30,100,2,Water extremely turbid
+HWP-Round03-DEER-T03,Highland Wildlife Park,30,175,2,Water extremely turbid
+HWP-Round03-DEER-T04,Highland Wildlife Park,30,100,2,Water extremely turbid
+HWP-Round03-DEER-T05,Highland Wildlife Park,30,50,2,Water extremely turbid
+WWT-D01-Round01-PM-BOWL,Wildwood Trust,1,500,1,
+WWT-D01-Round01-PM-T01,Wildwood Trust,1,500,1,
+WWT-D01-Round01-PM-T02,Wildwood Trust,1,500,1,
+WWT-D01-Round01-PM-T03,Wildwood Trust,1,500,1,
+WWT-D01-Round01-PM-T04,Wildwood Trust,1,500,1,
+WWT-D01-Round01-SQ-E1-FOX-2IND,Wildwood Trust,2,250,1,Only 250ml available from drinking bowl
+WWT-D01-Round01-SQ-E2-BEAR-3IND,Wildwood Trust,3,250,1,Only 250ml available from drinking bowl
+WWT-D01-Round01-SQ-E3-LYNX-3IND,Wildwood Trust,3,250,1,Only 250ml available from drinking bowl
+WWT-D01-Round01-SQ-E4-A91-2IND,Wildwood Trust,2,250,1,Only 250ml available from drinking bowl
+WWT-D01-Round01-WV-1IND,Wildwood Trust,1,250,1,Pre-filtrate from latrine water
+WWT-D01-Round01-WV-4IND,Wildwood Trust,4,250,1,Pre-filtrate from latrine water
+WWT-D01-Round02-HH-E1,Wildwood Trust,1,250,1,Only 250ml available from drinking bowl
+WWT-D01-Round02-HH-E2,Wildwood Trust,2,250,1,Only 250ml available from drinking bowl
+WWT-D01-Round03-OTT-T01,Wildwood Trust,2,500,1,
+WWT-D01-Round03-OTT-T02,Wildwood Trust,2,500,1,
+WWT-D01-Round03-OTT-T03,Wildwood Trust,2,500,1,
+WWT-D01-Round03-OTT-T04,Wildwood Trust,2,500,1,
+WWT-D01-Round03-OTT-T05,Wildwood Trust,2,500,1,
+WWT-D02-Round01-BAD-BOWL,Wildwood Trust,4,500,1,
+WWT-D02-Round01-BAD-T01,Wildwood Trust,4,500,1,
+WWT-D02-Round01-BAD-T02,Wildwood Trust,4,500,1,
+WWT-D02-Round01-BAD-T03,Wildwood Trust,4,500,1,
+WWT-D02-Round02-LYNX-BOWL,Wildwood Trust,2,500,1,
+WWT-D02-Round02-LYNX-POOL,Wildwood Trust,2,500,1,
+WWT-D02-Round04-BEAV-T01,Wildwood Trust,2,150,2,
+WWT-D02-Round04-BEAV-T02,Wildwood Trust,2,150,2,
+WWT-D02-Round04-BEAV-T03,Wildwood Trust,2,150,2,
+WWT-D02-Round04-BEAV-T04,Wildwood Trust,2,150,2,
+WWT-D03-Round02-DEER-T01,Wildwood Trust,8,10,1,Pre-filter clogged
+WWT-D03-Round02-DEER-T02,Wildwood Trust,8,25,1,
+WWT-D03-Round02-DEER-T03,Wildwood Trust,8,10,1,Pre-filter clogged
+WWT-D03-Round02-DEER-T04,Wildwood Trust,8,75,2,
+WWT-D03-Round02-DEER-T05,Wildwood Trust,8,50,1,Pre-filtrate
+WWT-D03-Round02-DEER-T06,Wildwood Trust,8,75,2,Pre-filtrate
+WWT-D1-Round01-PM-P01,Wildwood Trust,1,500,1,
+WWT-D1-Round01-PM-P02,Wildwood Trust,1,500,1,
+WWT-D1-Round01-PM-P03,Wildwood Trust,1,500,1,
+WWT-D1-Round03-OTT-P01,Wildwood Trust,2,500,1,
+WWT-D1-Round03-OTT-P02,Wildwood Trust,2,500,1,
+WWT-D1-Round03-OTT-P03,Wildwood Trust,2,500,1,
+WWT-D1-Round03-OTT-P04,Wildwood Trust,2,500,1,
+WWT-D1-Round03-OTT-P05,Wildwood Trust,2,500,1,
+WWT-D1-Round03-OTT-P06,Wildwood Trust,2,500,1,
+WWT-D2-Round01-BAD-P01,Wildwood Trust,4,500,1,
+WWT-D2-Round01-BAD-P02,Wildwood Trust,4,500,1,
+WWT-D2-Round01-BAD-P03,Wildwood Trust,4,500,1,
+WWT-D2-Round01-BEAV-P01,Wildwood Trust,2,200,2,
+WWT-D2-Round01-BEAV-P02,Wildwood Trust,2,150,2,
+WWT-D2-Round01-BEAV-P03,Wildwood Trust,2,150,2,
+WWT-D2-Round01-BEAV-P04,Wildwood Trust,2,150,2,
+WWT-D2-Round01-BEAV-P05,Wildwood Trust,2,150,2,
+WWT-D2-Round01-BEAV-P06,Wildwood Trust,1,150,2,
+WWT-D2-Round02-LYNX-P01,Wildwood Trust,2,500,1,
+WWT-D2-Round02-LYNX-P02,Wildwood Trust,2,500,1,
+WWT-D3-Round03-DEER-P01,Wildwood Trust,8,150,2,Pre-filtrate
+WWT-D3-Round03-DEER-P02,Wildwood Trust,8,25,2,Pre-filtrate
+WWT-D3-Round03-DEER-P03,Wildwood Trust,8,25,2,Pre-filtrate
+WWT-D3-Round03-DEER-P04,Wildwood Trust,8,25,2,Pre-filtrate

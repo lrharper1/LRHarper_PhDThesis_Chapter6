@@ -1,0 +1,110 @@
+Location,Sample,Behaviour,Frequency
+Wildwood Trust,WWT-D03-Round02-DEER-T01,Drinking,3
+Wildwood Trust,WWT-D03-Round02-DEER-T02,Drinking,2
+Wildwood Trust,WWT-D03-Round02-DEER-T03,Drinking,4
+Wildwood Trust,WWT-D03-Round02-DEER-T04,Drinking,1
+Wildwood Trust,WWT-D03-Round02-DEER-T05,Drinking,1
+Wildwood Trust,WWT-D03-Round02-DEER-T06,Drinking,1
+Wildwood Trust,WWT-D3-Round03-DEER-P01,Drinking,1
+Wildwood Trust,WWT-D3-Round03-DEER-P02,Drinking,1
+Wildwood Trust,WWT-D3-Round03-DEER-P03,Drinking,1
+Wildwood Trust,WWT-D3-Round03-DEER-P04,Drinking,1
+Wildwood Trust,WWT-D02-Round02-LYNX-BOWL,Drinking,4
+Wildwood Trust,WWT-D02-Round02-LYNX-POOL,Resting,5
+Wildwood Trust,WWT-D02-Round02-LYNX-POOL,Grooming,5
+Wildwood Trust,WWT-D2-Round02-LYNX-P01,Resting,5
+Wildwood Trust,WWT-D2-Round02-LYNX-P01,Grooming,5
+Wildwood Trust,WWT-D2-Round02-LYNX-P01,Urinating,2
+Wildwood Trust,WWT-D2-Round02-LYNX-P02,Walking,10
+Wildwood Trust,WWT-D2-Round02-LYNX-P02,Vocalising,4
+Wildwood Trust,WWT-D2-Round02-LYNX-P02,Scratching,1
+Wildwood Trust,WWT-D01-Round01-WV-1IND,None,0
+Wildwood Trust,WWT-D01-Round01-WV-4IND,None,0
+Wildwood Trust,WWT-D01-Round02-HH-E1,None,0
+Wildwood Trust,WWT-D01-Round02-HH-E2,None,0
+Wildwood Trust,WWT-D01-Round01-PM-BOWL,Drinking,1
+Wildwood Trust,WWT-D01-Round01-PM-T01,Urinating,1
+Wildwood Trust,WWT-D01-Round01-PM-T02,Drinking,2
+Wildwood Trust,WWT-D01-Round01-PM-T03,Immersed,10
+Wildwood Trust,WWT-D01-Round01-PM-T04,Urinating,7
+Wildwood Trust,WWT-D1-Round01-PM-P01,Urinating,1
+Wildwood Trust,WWT-D1-Round01-PM-P01,Drinking,2
+Wildwood Trust,WWT-D1-Round01-PM-P02,Walking,1
+Wildwood Trust,WWT-D1-Round01-PM-P02,Immersed,10
+Wildwood Trust,WWT-D1-Round01-PM-P03,Running,19
+Wildwood Trust,WWT-D1-Round01-PM-P03,Immersed,3
+Wildwood Trust,WWT-D1-Round01-PM-P03,Urinating,2
+Wildwood Trust,WWT-D01-Round01-SQ-E1-FOX-2IND,Drinking,2
+Wildwood Trust,WWT-D01-Round01-SQ-E1-FOX-2IND,Resting,1
+Wildwood Trust,WWT-D01-Round01-SQ-E2-BEAR-3IND,None,0
+Wildwood Trust,WWT-D01-Round01-SQ-E3-LYNX-3IND,Drinking,3
+Wildwood Trust,WWT-D01-Round01-SQ-E4-A91-2IND,None,0
+Wildwood Trust,WWT-D01-Round03-OTT-T01,Swimming,2
+Wildwood Trust,WWT-D01-Round03-OTT-T02,Swimming,3
+Wildwood Trust,WWT-D01-Round03-OTT-T02,Feeding,3
+Wildwood Trust,WWT-D01-Round03-OTT-T03,Swimming,2
+Wildwood Trust,WWT-D01-Round03-OTT-T04,Swimming,6
+Wildwood Trust,WWT-D01-Round03-OTT-T05,Swimming,4
+Wildwood Trust,WWT-D01-Round03-OTT-T05,Sniffing,5
+Wildwood Trust,WWT-D1-Round03-OTT-P01,Swimming,1
+Wildwood Trust,WWT-D1-Round03-OTT-P02,Swimming,6
+Wildwood Trust,WWT-D1-Round03-OTT-P03,Swimming,2
+Wildwood Trust,WWT-D1-Round03-OTT-P04,Swimming,5
+Wildwood Trust,WWT-D1-Round03-OTT-P04,Feeding,3
+Wildwood Trust,WWT-D1-Round03-OTT-P05,Swimming,4
+Wildwood Trust,WWT-D1-Round03-OTT-P06,Swimming,2
+Wildwood Trust,WWT-D02-Round01-BAD-BOWL,None,0
+Wildwood Trust,WWT-D02-Round01-BAD-T01,Drinking,5
+Wildwood Trust,WWT-D02-Round01-BAD-T01,Walking,5
+Wildwood Trust,WWT-D02-Round01-BAD-T01,Sniffing,5
+Wildwood Trust,WWT-D02-Round01-BAD-T02,Drinking,7
+Wildwood Trust,WWT-D02-Round01-BAD-T02,Walking,4
+Wildwood Trust,WWT-D02-Round01-BAD-T02,Sniffing,4
+Wildwood Trust,WWT-D02-Round01-BAD-T02,Standing,1
+Wildwood Trust,WWT-D02-Round01-BAD-T03,Drinking,3
+Wildwood Trust,WWT-D02-Round01-BAD-T03,Walking,2
+Wildwood Trust,WWT-D02-Round01-BAD-T03,Sniffing,2
+Wildwood Trust,WWT-D2-Round01-BAD-P01,None,0
+Wildwood Trust,WWT-D2-Round01-BAD-P02,Drinking,2
+Wildwood Trust,WWT-D2-Round01-BAD-P02,Walking,6
+Wildwood Trust,WWT-D2-Round01-BAD-P02,Sniffing,6
+Wildwood Trust,WWT-D2-Round01-BAD-P03,Walking,15
+Wildwood Trust,WWT-D2-Round01-BAD-P03,Sniffing,15
+Wildwood Trust,WWT-D02-Round04-BEAV-T01,Swimming,13
+Wildwood Trust,WWT-D02-Round04-BEAV-T01,Walking,10
+Wildwood Trust,WWT-D02-Round04-BEAV-T01,Standing,1
+Wildwood Trust,WWT-D02-Round04-BEAV-T01,Sniffing,1
+Wildwood Trust,WWT-D02-Round04-BEAV-T02,None,0
+Wildwood Trust,WWT-D02-Round04-BEAV-T03,Swimming,1
+Wildwood Trust,WWT-D02-Round04-BEAV-T04,Swimming,1
+Wildwood Trust,WWT-D2-Round01-BEAV-P01,Swimming,8
+Wildwood Trust,WWT-D2-Round01-BEAV-P01,Walking,1
+Wildwood Trust,WWT-D2-Round01-BEAV-P02,Swimming,15
+Wildwood Trust,WWT-D2-Round01-BEAV-P03,None,0
+Wildwood Trust,WWT-D2-Round01-BEAV-P04,Swimming,27
+Wildwood Trust,WWT-D2-Round01-BEAV-P05,Swimming,11
+Wildwood Trust,WWT-D2-Round01-BEAV-P06,None,0
+Highland Wildlife Park,HWP-Round01-LYNX-BUCK,Drinking,1
+Highland Wildlife Park,HWP-Round01-LYNX-P01,Drinking,1
+Highland Wildlife Park,HWP-Round01-LYNX-P02,Feeding,1
+Highland Wildlife Park,HWP-Round01-LYNX-T01,Drinking,1
+Highland Wildlife Park,HWP-Round03-DEER-P01,None,0
+Highland Wildlife Park,HWP-Round03-DEER-P02,None,0
+Highland Wildlife Park,HWP-Round03-DEER-P03,None,0
+Highland Wildlife Park,HWP-Round03-DEER-P04,None,0
+Highland Wildlife Park,HWP-Round03-DEER-P05,None,0
+Highland Wildlife Park,HWP-Round03-DEER-T01,Immersed,1
+Highland Wildlife Park,HWP-Round03-DEER-T02,Defecating,1
+Highland Wildlife Park,HWP-Round03-DEER-T03,Immersed,2
+Highland Wildlife Park,HWP-Round03-DEER-T04,Immersed,1
+Highland Wildlife Park,HWP-Round03-DEER-T05,Immersed,1
+Highland Wildlife Park,HWP-Round01-SQ-BATH,None,0
+Highland Wildlife Park,HWP-Round02-BEAV-P01,Swimming,5
+Highland Wildlife Park,HWP-Round02-BEAV-P02,Feeding,1
+Highland Wildlife Park,HWP-Round02-BEAV-P02,Gnawing,1
+Highland Wildlife Park,HWP-Round02-BEAV-P02,Swimming,2
+Highland Wildlife Park,HWP-Round02-BEAV-P03,None,0
+Highland Wildlife Park,HWP-Round02-BEAV-T01,Swimming,2
+Highland Wildlife Park,HWP-Round02-BEAV-T02,Swimming,3
+Highland Wildlife Park,HWP-Round02-BEAV-T03,None,0
+Highland Wildlife Park,HWP-Round02-ZOO-BEAV,Swimming,1
