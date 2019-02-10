@@ -1,8 +1,8 @@
-# Harper *et al.* (2018) Mammal eDNA metabarcoding
+# Harper *et al.* (2019) Mammal eDNA metabarcoding
 
 Data processing workflow and supplementary data for:
 
-Harper *et al.* Environmental DNA (eDNA) metabarcoding of pond water as a tool to survey conservation and management priority mammals in the UK.
+Harper *et al.* Environmental DNA (eDNA) metabarcoding of pond water as a tool to survey conservation and management priority mammals.
 
 Permanently archived at: [![DOI](https://zenodo.org/badge/151703900.svg)](https://zenodo.org/badge/latestdoi/151703900)
 
