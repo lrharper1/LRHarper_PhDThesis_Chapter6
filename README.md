@@ -1,5 +1,7 @@
 Data processing workflow and supplementary data for Chapter 6 of PhD Thesis by Lynsey Rebecca Harper on 'Rapid biodiversity monitoring of freshwater ponds using environmental DNA: traversing the aquatic-terrestrial boundary in pondscapes'.
 
+Permanently archived at: [![DOI](https://zenodo.org/badge/180355913.svg)](https://zenodo.org/badge/latestdoi/180355913)
+
 
 ## Contents
 
