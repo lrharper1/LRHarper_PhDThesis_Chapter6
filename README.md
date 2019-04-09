@@ -28,7 +28,7 @@ Illumina data was processed (from raw reads to taxonomic assignment) using the [
 In order to retrieve scripts and associated data (reference sequences, sample metadata etc.), start by cloning this repository to your current directory:
 
 ```
-git clone --recursive https://github.com/HullUni-bioinformatics/Harper_et_al_2018_mammal_eDNA_metabarcoding.git
+git clone --recursive https://github.com/lrharper1/LRHarper_PhDThesis_Chapter6.git
 ```
 
 In order to make use of our self contained analysis environment, you will have to install Docker on your computer. Docker is compatible with all major operating systems, but see the Docker documentation for details. On Ubuntu, installing Docker should be as easy as:
