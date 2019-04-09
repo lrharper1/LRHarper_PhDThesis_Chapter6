@@ -1,10 +1,4 @@
-# Harper *et al.* (2019) Mammal eDNA metabarcoding
-
-Data processing workflow and supplementary data for:
-
-Harper *et al.* Environmental DNA (eDNA) metabarcoding of pond water as a tool to survey conservation and management priority mammals.
-
-Permanently archived at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2561415.svg)](https://doi.org/10.5281/zenodo.2561415)
+Data processing workflow and supplementary data for Chapter 6 of PhD Thesis by Lynsey Rebecca Harper on 'Rapid biodiversity monitoring of freshwater ponds using environmental DNA: traversing the aquatic-terrestrial boundary in pondscapes'.
 
 
 ## Contents
