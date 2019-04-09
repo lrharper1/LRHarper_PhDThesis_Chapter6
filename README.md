@@ -9,7 +9,7 @@ Notebook to run metaBEAT pipeline [(here)](https://github.com/lrharper1/LRHarper
 
 NCBI Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/lrharper1/LRHarper_PhDThesis_Chapter6/blob/master/Data/Sample_accessions.tsv)
 
-Taxonomic assignment results [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_mammal_eDNA_metabarcoding/tree/master/Data/Taxonomic_Assignment_Results)
+Taxonomic assignment results [(here)](https://github.com/lrharper1/LRHarper_PhDThesis_Chapter6/tree/master/Data/Taxonomic_Assignment_Results)
 
 R scripts used to analyse metaBEAT output and produce figures [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_mammal_eDNA_metabarcoding/tree/master/R_scripts)
 
