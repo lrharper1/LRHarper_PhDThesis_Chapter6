@@ -11,9 +11,9 @@ NCBI Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)
 
 Taxonomic assignment results [(here)](https://github.com/lrharper1/LRHarper_PhDThesis_Chapter6/tree/master/Data/Taxonomic_Assignment_Results)
 
-R scripts used to analyse metaBEAT output and produce figures [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_mammal_eDNA_metabarcoding/tree/master/R_scripts)
+R scripts used to analyse metaBEAT output and produce figures [(here)](https://github.com/lrharper1/LRHarper_PhDThesis_Chapter6/tree/master/R_scripts)
 
-Sample metadata needed to run analyses in R [(here)](https://github.com/HullUni-bioinformatics/Harper_et_al_2018_mammal_eDNA_metabarcoding/tree/master/Data/Sample_Metadata)
+Sample metadata needed to run analyses in R [(here)](https://github.com/lrharper1/LRHarper_PhDThesis_Chapter6/tree/master/Data/Sample_Metadata)
 
 
 ## Instructions to set up dependencies for data processing and analyses
